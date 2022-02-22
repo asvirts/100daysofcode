@@ -1,0 +1,6 @@
+# Lesson 1 of the 100 Days of Code challenge
+
+print("Welcome to the Coffee Brand Name Generator")
+city = input("What is the name of the city you grew up in?\n")
+animal = input("What is the name of your favorite animal?\n")
+print("Your new coffee brand name is " + str(city) + str(" ") + str(animal))
